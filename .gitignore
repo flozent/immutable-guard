@@ -1,0 +1,10 @@
+*.o
+*.so
+*.a
+immutable-guard
+immutable-guard-helper
+rpmbuild/
+*.rpm
+*.tar.gz
+__pycache__/
+*.pyc

@@ -8,3 +8,6 @@ rpmbuild/
 *.tar.gz
 __pycache__/
 *.pyc
+immutable-guard-*
+*.o
+*.out
